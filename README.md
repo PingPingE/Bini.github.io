@@ -26,8 +26,8 @@
 Yolo는 딥러닝 기반 객체 탐색 기법으로, 간단한 처리과정과 빠른 속도가 장점.
 <br>
 <h3>학습시킨 데이터(이미지, 텍스트)</h3>
-- 텍스트에는 해당 이미지에서 추출할 부분의 위치값과 라벨값이 포함되어있습니다.<br>
 <img width="300" alt="yolo2" src="https://user-images.githubusercontent.com/47843060/53254316-7abc4100-3706-11e9-988d-41b43ba51f28.png">
+<br>*텍스트에는 해당 이미지에서 추출할 부분의 위치값과 라벨값이 포함되어있습니다.
 <br><br>
 
 <h3>학습시킨 후 생성된 weights 파일</h3>
@@ -35,7 +35,9 @@ Yolo는 딥러닝 기반 객체 탐색 기법으로, 간단한 처리과정과 �
 <br>*weights파일은 대용량이므로 업로드 하지 못했습니다.
 <br><br>
 
-<h3>학습시킨 weights 파일로 Test</h3>
+<h3>Test</h3>
 <img width="600" alt="yolo3" src="https://user-images.githubusercontent.com/47843060/53254325-7d1e9b00-3706-11e9-9326-70120b666be9.png">
+<br>*weights파일을 적용하여 test해보았습니다.
+
 
     
