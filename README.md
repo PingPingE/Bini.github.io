@@ -6,8 +6,9 @@
     <br><br>
     
   <li>전체 시스템 구성도</li>
-    <img width="588" alt="default" src="https://user-images.githubusercontent.com/47843060/53254284-6bd58e80-3706-11e9-9a19-  d03dd4ba1287.png">
+    <img width="588" alt="default" src="https://user-images.githubusercontent.com/47843060/53254284-6bd58e80-3706-11e9-9a19-d03dd4ba1287.png">
     <br>
+    
 <img width="609" alt="default" src="https://user-images.githubusercontent.com/47843060/53254293-6f691580-3706-11e9-8b81-1708f20b1d92.png">
 <br><br>
 
