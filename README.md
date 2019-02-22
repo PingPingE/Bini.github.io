@@ -6,7 +6,8 @@
     <br><br>
     
   <li>전체 시스템 구성도</li>
-    <img width="588" alt="default" src="https://user-images.githubusercontent.com/47843060/53254284-6bd58e80-3706-11e9-9a19-     d03dd4ba1287.png">
+    <img width="588" alt="default" src="https://user-images.githubusercontent.com/47843060/53254284-6bd58e80-3706-11e9-9a19-  d03dd4ba1287.png">
+    <br>
 <img width="609" alt="default" src="https://user-images.githubusercontent.com/47843060/53254293-6f691580-3706-11e9-8b81-1708f20b1d92.png">
 <br><br>
 
@@ -27,8 +28,8 @@
 <br><br>
 
 <h3>학습시킨 후 생성된 weights 파일</h3>
-*weights파일은 대용량이므로 업로드 하지 못했습니다.<br>
 <img width="212" alt="yolo1" src="https://user-images.githubusercontent.com/47843060/53254306-76902380-3706-11e9-967f-9754d15f9f3f.png">
+<br>*weights파일은 대용량이므로 업로드 하지 못했습니다.
 <br><br>
 
 <h3>학습시킨 weights 파일로 Test</h3>
