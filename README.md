@@ -3,26 +3,28 @@
 <ul>
   <li>일부인이란?</li>
   <p>일부인은 연,월,일과 같은 날짜 정보
-    <br><br>
+    <br><br><br>
     
   <li>전체 시스템 구성도</li>
     <img width="588" alt="default" src="https://user-images.githubusercontent.com/47843060/53254284-6bd58e80-3706-11e9-9a19-d03dd4ba1287.png">
-    <br>
+    <br><br>
     
 <img width="609" alt="default" src="https://user-images.githubusercontent.com/47843060/53254293-6f691580-3706-11e9-8b81-1708f20b1d92.png">
-<br><br>
+<br><br><br>
 
   <li>전체 흐름도</li>
   <img width="588" alt="default" src="https://user-images.githubusercontent.com/47843060/53254296-71cb6f80-3706-11e9-9886-d7baabe83515.png">
-<br><br>
+<br><br><br>
 
   <li>서버</li>
     <img width="591" alt="default" src="https://user-images.githubusercontent.com/47843060/53254273-65dfad80-3706-11e9-82c0-c0add1780596.png">
-    <br><br>
+    <br><br><br>
 
 </ul>
 
-<h2>Yolo</h2>
+<h2>딥러닝 알고리즘 : You Only Look Once (YOLO)</h2>
+Yolo는 딥러닝 기반 객체 탐색 기법으로, 간단한 처리과정과 빠른 속도가 장점이다.
+<br>
 <h3>학습시킨 데이터(이미지, 텍스트)</h3>
 - 텍스트에는 해당 이미지에서 추출할 부분의 위치값과 라벨값이 포함되어있습니다.<br>
 <img width="274" alt="yolo2" src="https://user-images.githubusercontent.com/47843060/53254316-7abc4100-3706-11e9-988d-41b43ba51f28.png">
