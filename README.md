@@ -6,12 +6,12 @@
 <ul>
   <li>일부인이란?</li>
   <p>일부인은 연,월,일과 같은 날짜 정보
-    <br><br><br>
-    
+    <br><br>
     
   <li>기간</li>
   <p>2018.04.01 ~ 2018.09.30(6개월)</p>
   <br><br>
+  
   
   <li>개발환경 및 언어(전체)</li>
   - MariaDB, YOLO, 안드로이드 스튜디오, Visual Studio
@@ -24,7 +24,8 @@
   - TEST
   - H/W 부품 제작
   <br><br>
-  
+
+
   <li>전체 시스템 구성도</li>
     <img width="588" alt="default" src="https://user-images.githubusercontent.com/47843060/53254284-6bd58e80-3706-11e9-9a19-d03dd4ba1287.png">
     <br><br>
