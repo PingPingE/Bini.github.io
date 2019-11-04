@@ -18,6 +18,11 @@
   <p>2018.04.01 ~ 2018.09.30(6개월)</p>
   
   <li>일정</li>
+  |  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
+|:--------|:--------:|--------:|
+|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
+|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
+|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
   일시|내용
   ------|-------
   2018.04|역할분담 및 자료조사
