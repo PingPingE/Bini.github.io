@@ -29,7 +29,7 @@
   <li>기간</li>
   <p>2018.04.01 ~ 2018.09.30(6개월)</p>
 
-  
+  <br>
   <li>개발환경 및 언어(전체)</li>
   - MariaDB, YOLO, Android Studio, Visual Studio
   <br>
