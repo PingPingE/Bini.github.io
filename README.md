@@ -89,6 +89,11 @@ Yolo는 딥러닝 기반 객체 탐색 기법으로, 간단한 처리과정과 �
 <h3>Test</h3>
 <img width="600" alt="yolo3" src="https://user-images.githubusercontent.com/47843060/53254325-7d1e9b00-3706-11e9-9326-70120b666be9.png">
 <br>*weights파일을 적용하여 test해보았습니다.
+<br><br>
+
+<h3>전체 흐름</h3>
+<img width="1000" alt="yolo4" src="https://user-images.githubusercontent.com/47843060/68098593-d62f0780-ff00-11e9-9b53-e53dea5cfed8.JPG">
+
 
 
     
