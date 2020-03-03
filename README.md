@@ -29,14 +29,14 @@
 
   <br>
   <li>개발환경 및 언어(전체)</li>
-  - MariaDB, YOLO, Android Studio, Visual Studio
+  - MariaDB, Android Studio, Visual Studio
   <br>
   - PHP, C++, C#
   <br><br>
 
   
   <li>역할</li>
-  - OCR개발<br>
+  - YOLO기반 OCR개발<br>
   - Testing/Debugging<br>
   - H/W 부품 제작
   <br><br>
