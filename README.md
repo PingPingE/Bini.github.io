@@ -28,7 +28,7 @@
   <p>2018.04.01 ~ 2018.09.30(6개월)</p>
 
   <br>
-  <li>개발환경 및 언어(전체)</li>
+  <li>개발환경 및 언어</li>
   - MariaDB, Android Studio, Visual Studio
   <br>
   - PHP, C++, C#
