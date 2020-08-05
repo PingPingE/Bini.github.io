@@ -59,8 +59,8 @@
 2. 컨베이어벨트에 설치되어 있는 포토센서에 물체가 감지되고 영상이 캡쳐된다.
 3. 캡처된 영상이 서버로 보내지고 일부인을 분석한다.
 4. 설정된 일부인과 비교하여 2가지 상태로 구별을 한다.
-  - 설정된 날짜와 같은 경우: PASS
-  - 설정된 날짜와 다른 경우: NG
+    - 설정된 날짜와 같은 경우: PASS
+    - 설정된 날짜와 다른 경우: NG
 5. 모든 결과값들을 DB에 저장하고 UI에 띄워준다
 6. NG일 경우 관리자의 모바일에 푸쉬알림을 띄운다.
 7. 관리자는 모바일 앱을 통해 공장을 관리할 수 있다.
@@ -75,7 +75,7 @@
 ## 알고리즘 선택
 <img src="https://user-images.githubusercontent.com/47843060/89375300-5b617a00-d728-11ea-811f-d1aef7be8b38.png" width=60% height= 30%/>
 
-<br><br><br>
+<br><br>
  
 ## 데이터 수집
 <img width="500" alt="yolo2" src="https://user-images.githubusercontent.com/47843060/53254316-7abc4100-3706-11e9-988d-41b43ba51f28.png"/>
@@ -87,11 +87,9 @@
 - 직접 촬영으로 이미지 데이터 생성
   - 다각도로 촬영
   - 회전, 빛 조절 등으로 다양한 데이터 생성
-- Labeling Tool을 활용하여 Labeling 수행
-<br>
-*BBox-Label-Tool 활용
+- Labeling Tool(BBox-Label-Tool)을 활용하여 Labeling 수행
 
-<br><br><br>
+<br><br>
  
 ## 학습 및 테스트
 <img width="1000" alt="yolo4" src="https://user-images.githubusercontent.com/47843060/68098593-d62f0780-ff00-11e9-9b53-e53dea5cfed8.JPG">
