@@ -33,14 +33,13 @@
   - Android Studio(모바일앱)
   - Visual Studio(서버)
   - Darknet(OCR)
- 
-<br><br><br>
+
    
 ## 역할
   - YOLOv2 기반 OCR개발
   - Testing/Debugging
   - H/W 부품 제작
-<br><br><br>
+
    
 ## 시스템 구성
 
@@ -71,16 +70,17 @@
 - 학습데이터로 활용하지 않은 제품으로 300번 테스트한 결과, 평균 0.13초의 속도와 100% 정확도로 불량 검출
 <br><br><br>
  
-# 상세 과정(본인 역할)
-
+# 상세 역할
+<br><br>
 ## 알고리즘 선택
-<img src="https://user-images.githubusercontent.com/47843060/89375300-5b617a00-d728-11ea-811f-d1aef7be8b38.png" width=80% height= 70%/>
+<img src="https://user-images.githubusercontent.com/47843060/89375300-5b617a00-d728-11ea-811f-d1aef7be8b38.png" width=60% height= 30%/>
 
 <br><br><br>
  
 ## 데이터 수집
 <img width="500" alt="yolo2" src="https://user-images.githubusercontent.com/47843060/53254316-7abc4100-3706-11e9-988d-41b43ba51f28.png"/>
-<br>*텍스트에는 해당 이미지에서 추출할 부분의 위치값과 라벨값이 포함되어있습니다.<br>
+*텍스트에는 해당 이미지에서 추출할 부분의 위치값과 라벨값이 포함되어있습니다.
+<br><br>
 
 - 제품의 종류별로 20개씩 수집 -> 총 100개(5종류)
 - 7 : 3의 비율로 Train 셋, Test 셋 분할
@@ -95,7 +95,5 @@
  
 ## 학습 및 테스트
 <img width="1000" alt="yolo4" src="https://user-images.githubusercontent.com/47843060/68098593-d62f0780-ff00-11e9-9b53-e53dea5cfed8.JPG">
-
-
 
     
